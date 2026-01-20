@@ -2,6 +2,21 @@
 
 Persistent file-based planning for complex tasks. Uses markdown files as working memory to prevent goal drift, track decisions, and log errors across long sessions.
 
+## Installation
+
+### Quick Setup
+
+1. **Add the plugin marketplace:**
+
+   ```
+   /plugin marketplace add adelonte/claudeplanner
+   ```
+
+2. **Install the plugin:**
+   ```
+   /plugin install claude-planner@claudeplanner
+   ```
+
 ## The Problem
 
 AI agents suffer from:
