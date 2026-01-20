@@ -1,0 +1,15 @@
+{
+  "name": "claude-planner",
+  "owner": {
+    "name": "sina v",
+    "url": ""
+  },
+  "plugins": [
+    {
+      "name": "claude-planner",
+      "source": "./",
+      "description": "Persistent file-based planning for complex tasks. Uses task_plan.md and progress.md as working memory.",
+      "version": "1.0.0"
+    }
+  ]
+}
