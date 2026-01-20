@@ -63,12 +63,14 @@ claude-planner/
 ## When to Use
 
 **Use for:**
+
 - Multi-step tasks (3+ steps)
 - Research tasks
 - Building projects
 - Tasks spanning many tool calls
 
 **Skip for:**
+
 - Simple questions
 - Single-file edits
 - Quick lookups
@@ -79,4 +81,4 @@ MIT License
 
 ---
 
-**Author:** sina v
+**Author:** adelonte

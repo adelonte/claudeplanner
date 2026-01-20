@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "description": "Persistent file-based planning for complex tasks. Uses task_plan.md and progress.md as working memory to prevent goal drift, track decisions, and log errors across long sessions.",
   "author": {
-    "name": "sina v",
-    "url": ""
+    "name": "adelonte",
+    "url": "https://github.com/adelonte"
   },
-  "repository": "",
+  "repository": "https://github.com/adelonte/claudeplanner",
   "license": "MIT",
   "keywords": [
     "planning",
